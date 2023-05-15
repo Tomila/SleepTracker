@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnenseurantaProjekti ATA</string>
+    <string name="most_recent_sleep_recorded">Most Recent Sleep Recorded:</string>
+    <string name="submit">Submit</string>
+    <string name="rate_your_sleep">Rate Your Sleep</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="sleepdata">SleepData</string>
+</resources>
